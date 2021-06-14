@@ -1,6 +1,6 @@
 package com.example.telegramBot.service;
 
-import com.example.telegramBot.TelegramBot;
+import com.example.telegramBot.bot.TelegramBot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.methods.send.SendPhoto;

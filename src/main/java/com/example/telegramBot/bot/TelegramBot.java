@@ -1,4 +1,4 @@
-package com.example.telegramBot;
+package com.example.telegramBot.bot;
 
 import com.example.telegramBot.model.id.User;
 import com.example.telegramBot.service.SendBotMessageServiceRealisation;
